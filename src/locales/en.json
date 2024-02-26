@@ -1,0 +1,260 @@
+{
+  "pages": {
+    "home": {
+      "titles": {
+        "mainTitle": "Inclusive care for children with special needs",
+        "specialNeedsTitle": "We provide a place for children with special needs",
+        "servicesTitle": "Some services we provide for our children",
+        "howWeSpendDonationsTitle": "How we spend your donations and where it goes",
+        "familySupport": "Family support",
+        "healthBenefits": "Health benefits",
+        "scholarship": "Scholarships",
+        "therapy": "Therapy"
+      },
+      "subtitles": {
+        "knowAboutUs": "Know about us",
+        "ourSupporters": "Our supporters",
+        "whatWeDo": "What we do"
+      },
+      "texts": {
+        "childrenUnderCare": "230 children under our care",
+        "donationsCollected": "58 donations collected",
+        "donationText": "We understand that when you make a  donation, you want to know exactly where your money is going and we pledge to be transparent.",
+        "donationProgram": {
+          "childCareHome": "40% child care home",
+          "excursions": "10% excursions",
+          "cleanlinessProgram": "35% cleanliness program",
+          "feedingPoor": "5% feeding the poor",
+          "helpingPeople": "10% helping people"
+        }
+      }
+    },
+    "aboutUs": {
+      "titles": {
+        "mainTitle": "We are a non-governmental organization",
+        "awardsRecognition": "Awards & Recognitions",
+        "weRaised": "How we raised 34M",
+        "ourTeam": "Meet our team"
+      },
+      "subtitles": {
+        "knowAboutUs": "Know about us",
+        "ourMission": "Our mission",
+        "ourVision": "Our vision",
+        "ourJourney": "Our journey"
+      },
+      "smallTitles": {
+        "missionTitle": "We make sure to provide inclusive care for children with special needs",
+        "visionTitle": "Provide more inclusive care to children around the world"
+      },
+      "awards": {
+        "firstAward": {
+          "title": "Best NGO Award",
+          "place": "Berlin, Germany"
+        },
+        "secondAward": {
+          "title": "Global Award",
+          "place": "New York, USA"
+        },
+        "thirdAward": {
+          "title": "CSN Award",
+          "place": "New Delhi, India"
+        },
+        "fourthAward": {
+          "title": "NGO of the year Award",
+          "place": "Vienna, Austria"
+        }
+      },
+      "journey": {
+        "firstStep": "Donation Received",
+        "secondStep": "Volunteers",
+        "thirdStep": "Care homes"
+      },
+      "ourTeam": {
+        "firstMember": {
+          "name": "Leonard John Davies",
+          "position": "Cofounder, CEO"
+        },
+        "secondMember": {
+          "name": "Francis Weber",
+          "position": "Vice Chairman"
+        },
+        "thirdMember": {
+          "name": "Kyla Obrien",
+          "position": "Head of Authority"
+        },
+        "fourthMember": {
+          "name": "Adrian Dixon",
+          "position": "Support Executive"
+        },
+        "fifthMember": {
+          "name": "Freddy Busby",
+          "position": "Project Manager"
+        },
+        "sixthMember": {
+          "name": "Dale Banks",
+          "position": "Accountatnt, Finance"
+        },
+        "seventhMember": {
+          "name": "Miriam Middleton",
+          "position": "Cofounder, CEO"
+        },
+        "eighthMember": {
+          "name": "Ellen Walton",
+          "position": "Vice Chairman"
+        }
+      }
+    },
+    "whatWeDo": {
+      "titles": {
+        "mainTitle": "We are working cross country",
+        "whatWeDoSpecialNeeds": "What we do for our kids with special needs"
+      },
+      "smallTitles": {
+        "familySupport": "Family support",
+        "healthBenefits": "Health benefits",
+        "education": "Education",
+        "basicAmenities": "Basic amenities",
+        "therapy": "Therapy",
+        "publicOutreach": "Public outreach"
+      }
+    },
+    "media": {
+      "mainTitle": "Our goal is to provide inclusive care for children with special needs",
+      "subtitle": "Top news",
+      "topics": {
+        "firstTopic": {
+          "title": "Autism care day",
+          "date": "15th Nov 2022"
+        },
+        "secondTopic": {
+          "title": "Down syndrome outreach",
+          "date": "15th Nov 2022"
+        },
+        "thirdTopic": {
+          "title": "Caring for children with cerebral palsy",
+          "date": "15th Nov 2022"
+        }
+      }
+    },
+    "contacts": {
+      "mainTitle": "We'd love to hear from you",
+      "subtitle": "Contact us",
+      "text": "Have any question in mind or want to enquire? Please feel free to contact us through the form or the following details.",
+      "smallTitles": {
+        "letsTalk": "Let's talk",
+        "headOffice": "Head office",
+        "branchOffice": "Branch office"
+      },
+      "addresses": {
+        "headOffice": {
+          "title": "8 Brewery Drive, Lagos, Nigeria."
+        },
+        "branchOffice": {
+          "title": "Opp Opolo round about, Yenagoa, Bayelsa, Nigeria"
+        }
+      }
+    },
+    "donation": {
+      "titles": {
+        "mainTitle": "Making a donation for our children.",
+        "howYouCanContribute": "How you can contribute to caring for our kids",
+        "howWeSpendDonations": "How we use your donation"
+      },
+      "subtitle": "Donate",
+      "mainText": "When you donate, you’re supporting effective care to children with special needs—an investment in the leaders of tomorrow.",
+      "smallTitles": {
+        "overview": "Overview",
+        "impact": "Impact",
+        "whatYouGet": "What you get"
+      }
+    },
+    "project": {
+      "subtitle": "our projects",
+      "coolHeading": "Some cool heading",
+      "features": {
+        "visit": "20+ orphanage visit in 2 months",
+        "donate": "230 People Have donated",
+        "joined": "30+ people joined",
+        "initiate": "1.2m Raised for this initiate"
+      }
+    },
+    "event": {
+      "aboutTitle": "About",
+      "otherEvent": "Other events"
+    }
+  },
+  "navMenu": {
+    "home": "Home",
+    "about": "About Us",
+    "whatWeDo": "What We Do",
+    "media": "Media",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "donate": "Donate",
+    "learnMore": "Learn More",
+    "joinAsVolunteer": "Join as a Volunteer",
+    "subscribe": "Subscribe",
+    "whatWeDo": "What We Do",
+    "sendMessage": "Send Message"
+  },
+  "projects": {
+    "mainTitle": "We are creating a place where children with special needs can thrive",
+    "subtitle": "Projects we have done",
+    "projectsItems": {
+      "firstProject": {
+        "title": "Mission smile 1k: Outdoor charity"
+      },
+      "secondProject": {
+        "title": "Weekly excursions"
+      },
+      "thirdProject": {
+        "title": "Monthly public awareness"
+      }
+    }
+  },
+  "contributions": {
+    "youCanContributeTitle": "You can contribute to provide a place for children with special needs!"
+  },
+  "events": {
+    "mainTitle": "Our Events",
+    "subTitle": "Next Events",
+    "eventTitles": {
+      "titleFirst": "A day with our wonderful children",
+      "titleSecond": "Seminar: Caring for children with autism"
+    },
+    "months": {
+      "april": "APR"
+    }
+  },
+  "texts": {
+    "loremFirst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+    "loremSecond": "Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+    "loremThird": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, molestias, reprehenderit? Accusamus adipisci amet animi asperiores atque consectetur deserunt dolor doloribus eius eos est eveniet exercitationem expedita, fugiat fugit in laboriosam libero maiores minima necessitatibus nisi nobis optio porro, possimus quam quia quisquam quo quos reiciendis reprehenderit rerum soluta tenetur voluptatum? Aspernatur debitis delectus, distinctio eius eligendi iste iure reiciendis sint. A at cupiditate dolores enim fugiat harum incidunt nam numquam tempore, temporibus ut vel voluptate? Asperiores aspernatur consectetur cumque, dolore dolorem est et explicabo in maxime nobis non perspiciatis quae quidem, sapiente sed sequi similique sint tenetur, vel voluptatum!"
+  },
+  "footer": {
+    "team": "Team",
+    "more": "More",
+    "projects": "Projects",
+    "events": "Events",
+    "blog": "Blog",
+    "connect": "Connect",
+    "subscribeToGetLatestNews": "Subscribe to get latest updates",
+    "donate": "Donate"
+  },
+  "placeholder": {
+    "yourEmail": "Your email",
+    "yourName": "Your name",
+    "yourLastName": "Your last name",
+    "subject": "Subject"
+  },
+  "inputs": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "yourMessage": "Your Message"
+  }
+}
+

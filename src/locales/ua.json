@@ -1,0 +1,254 @@
+{
+  "pages": {
+    "home": {
+      "titles": {
+        "mainTitle": "Інклюзивний догляд за дітьми з особливими потребами",
+        "specialNeedsTitle": "Надаємо місце для дітей з особливими потребами",
+        "servicesTitle": "Деякі послуги ми надаємо нашим дітям",
+        "howWeSpendDonationsTitle": "Як ми витрачаємо ваші пожертви та куди вони йдуть",
+        "familySupport": "Підтримка сімей",
+        "healthBenefits": "Турбота про здоров’я",
+        "scholarship": "Стипендії",
+        "therapy": "Терапія"
+      },
+      "subtitles": {
+        "knowAboutUs": "Про нас",
+        "ourSupporters": "Наші Донари",
+        "whatWeDo": "Що ми робимо"
+      },
+      "texts": {
+        "childrenUnderCare": "230 дітей під нашою опікою",
+        "donationsCollected": "Зібрано 58 пожертв",
+        "donationText": "Ми розуміємо, що коли ви робите пожертву, ви хочете точно знати, куди йдуть ваші гроші, і ми обіцяємо бути прозорими.",
+        "donationProgram": {
+          "childCareHome": "40% для дитячих будинків",
+          "excursions": "10% на екскурсії",
+          "cleanlinessProgram": "35% на програми для очищення",
+          "feedingPoor": "5% на годування бідних",
+          "helpingPeople": "10% для допомоги людям"
+        }
+      }
+    },
+    "aboutUs": {
+      "titles": {
+        "mainTitle": "Ми неурядова організація",
+        "awardsRecognition": "Нагороди та Визнання",
+        "weRaised": "Як ми зібрали 34 млн",
+        "ourTeam": "Наша команда"
+      },
+      "subtitles": {
+        "knowAboutUs": "Про нас",
+        "ourMission": "Наша місія",
+        "ourVision": "Наше бачення",
+        "ourJourney": "Наша маршрут"
+      },
+      "smallTitles": {
+        "missionTitle": "Ми дбаємо про інклюзивний догляд для дітей з особливими потребами",
+        "visionTitle": "Забезпечити більш інклюзивний догляд для дітей у всьому світі"
+      },
+      "awards": {
+        "firstAward": {
+          "title": "Нагорода за найкращу НУО",
+          "place": "Берлін, Німеччина"
+        },
+        "secondAward": {
+          "title": "Глобальна премія",
+          "place": "Нью-Йорк, США"
+        },
+        "thirdAward": {
+          "title": "Нагорода CSN",
+          "place": "Нью-Делі, Індія"
+        },
+        "fourthAward": {
+          "title": "Нагорода за найкращу НУО",
+          "place": "Відень, Австрія"
+        }
+      },
+      "journey": {
+        "firstStep": "Пожертв отримано",
+        "secondStep": "Волонтери",
+        "thirdStep": "Будинки догляду"
+      },
+      "ourTeam": {
+        "firstMember": {
+          "name": "Леонард Джон Девіс",
+          "position": "Співзасновник, генеральний директор"
+        },
+        "secondMember": {
+          "name": "Френсіс Вебер",
+          "position": "Заступник голови"
+        },
+        "thirdMember": {
+          "name": "Кайла Обрієн",
+          "position": "Голова органу"
+        },
+        "fourthMember": {
+          "name": "Адріан Діксон",
+          "position": "Служба підтримки"
+        },
+        "fifthMember": {
+          "name": "Фредді Басбі",
+          "position": "Керівник проекту"
+        },
+        "sixthMember": {
+          "name": "Дейл Бенкс",
+          "position": "Бухгалтер, фінанси"
+        },
+        "seventhMember": {
+          "name": "Міріам Міддлтон",
+          "position": "Співзасновник, генеральний директор"
+        },
+        "eighthMember": {
+          "name": "Еллен Волтон",
+          "position": "Заступник голови"
+        }
+      }
+    },
+    "whatWeDo": {
+      "titles": {
+        "mainTitle": "Працюємо по всій країні",
+        "whatWeDoSpecialNeeds": "Що ми робимо для дітей з особливими потребами"
+      },
+      "smallTitles": {
+        "familySupport": "Підтримка сім’ї",
+        "healthBenefits": "Турбота про здоров’я",
+        "education": "Освіта",
+        "basicAmenities": "Основні зручності",
+        "therapy": "Терапія",
+        "publicOutreach": "Громадська допомога"
+      }
+    },
+    "media": {
+      "mainTitle": "Наша мета – забезпечити інклюзивний догляд для дітей з особливими потребами",
+      "subtitle": "Головні новини",
+      "topics": {
+        "firstTopic": {
+          "title": "День допомоги людям з аутизмом",
+          "date": "15 листопада 2022р"
+        },
+        "secondTopic": {
+          "title": "Просвітницька робота з синдромом Дауна",
+          "date": "15 листопада 2022р"
+        },
+        "thirdTopic": {
+          "title": "Догляд за дітьми з церебральним паралічем",
+          "date": "15 листопада 2022р"
+        }
+      }
+    },
+    "contacts": {
+      "mainTitle": "Ми будемо раді почути вас",
+      "subtitle": "Зв'яжіться з нами",
+      "text": "Маєте будь-яке запитання? Будь ласка, не соромтеся зв’язатися з нами за допомогою форми або наведених нижче даних.",
+      "smallTitles": {
+        "letsTalk": "Зв’яжіться з нами",
+        "headOffice": "Головний офіс",
+        "branchOffice": "Філія"
+      },
+      "addresses": {
+        "headOffice": {
+          "title": "8 Brewery Drive, Лагос, Нігерія."
+        },
+        "branchOffice": {
+          "title": "Opp Opolo навколо, Yenagoa, Bayelsa, Нігерія"
+        }
+      }
+    },
+    "donation": {
+      "titles": {
+        "mainTitle": "Робимо пожертвування для наших дітей.",
+        "howYouCanContribute": "Як ви можете зробити свій внесок у турботу про наших дітей",
+        "howWeSpendDonations": "Як ми використовуємо вашу пожертву"
+      },
+      "subtitle": "Пожертвування",
+      "mainText": "Роблячи пожертвування, ви підтримуєте ефективну допомогу дітям з особливими потребами — інвестицію в лідерів завтрашнього дня.",
+      "smallTitles": {
+        "overview": "Огляд",
+        "impact": "Вплив",
+        "whatYouGet": "Що ви отримуєте"
+      }
+    },
+    "project": {
+      "subtitle": "наш проект",
+      "coolHeading": "Крутий заголовок",
+      "features": {
+        "visit": "Відвідування 20+ дитячих будинків за 2 місяці",
+        "donate": "230 людей пожертвували",
+        "joined": "Приєдналися 30+ людей",
+        "initiate": "1,2м зібрано для цього проекту"
+      }
+    }
+  },
+  "navMenu": {
+    "home": "Головна",
+    "about": "Про нас",
+    "whatWeDo": "Що ми робимо",
+    "media": "Медіа",
+    "contact": "Контакти"
+  },
+  "buttons": {
+    "donate": "Донатити",
+    "learnMore": "Дізнатися більше",
+    "joinAsVolunteer": "Долучитися як волонтер",
+    "subscribe": "Підписатись",
+    "whatWeDo": "Що ми робимо",
+    "sendMessage": "Відправити повідомлення"
+  },
+  "projects": {
+    "mainTitle": "Ми створюємо місце, де можуть розвиватися діти з особливими потребами",
+    "subtitle": "Проекти, які ми зробили",
+    "projectsItems": {
+      "firstProject": {
+        "title": "Місія посмішки 1т: Оберег для дітей"
+      },
+      "secondProject": {
+        "title": "Щотижневі екскурсії"
+      },
+      "thirdProject": {
+        "title": "Місячник інформування населення"
+      }
+    }
+  },
+  "contributions": {
+    "youCanContributeTitle": "Ви можете зробити свій внесок у забезпечення місця для дітей з особливими потребами!"
+  },
+  "events": {
+    "mainTitle": "Події",
+    "subTitle": "Майбутні події",
+    "eventTitles": {
+      "titleFirst": "День з нашими чудовими дітьми",
+      "titleSecond": "Семінар: Догляд за дітьми з аутизмом"
+    },
+    "months": {
+      "april": "КВТ"
+    }
+  },
+  "texts": {
+    "loremFirst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+    "loremSecond": "Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+  },
+  "footer": {
+    "team": "Команда",
+    "more": "Більше",
+    "projects": "Проекти",
+    "events": "Події",
+    "blog": "Блог",
+    "connect": "Зв'язок",
+    "subscribeToGetLatestNews": "Підпишіться, щоб отримувати останні новини",
+    "donate": "Донатити"
+  },
+  "placeholder": {
+    "yourEmail": "Ваш email",
+    "yourName": "Ваше ім’я",
+    "yourLastName": "Ваше прізвище",
+    "subject": "Тема"
+  },
+  "inputs": {
+    "firstName": "Ваше ім’я",
+    "lastName": "Ваше прізвище",
+    "email": "Ваш email",
+    "subject": "Тема",
+    "message": "Повідомлення",
+    "yourMessage": "Ваше повідомлення"
+  }
+}
