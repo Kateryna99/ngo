@@ -37,8 +37,18 @@ export default {
       return this.$route.params.eventId
     }
   },
+  methods: {
+    getEvent(newEventId) {
+      this.event = this.getEventById(newEventId)
+    }
+  },
+  watch: {
+    getEventId(newEventId) {
+      this.getEvent(newEventId)
+    }
+  },
   created() {
-    this.event = this.getEventById(this.getEventId)
+    this.getEvent(this.getEventId)
     this.otherEventList = this.getOtherEvents(this.getEventId)
   }
 }

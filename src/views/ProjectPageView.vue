@@ -36,9 +36,18 @@ export default {
       return this.$route.params.projectId
     }
   },
+  methods: {
+    loadProjectById(newProjectId) {
+      this.project = this.getProjectById(newProjectId)
+    }
+  },
+  watch: {
+    getProjectId(newProjectId) {
+      this.loadProjectById(newProjectId)
+    }
+  },
   created() {
-    console.log(this.getProjectById(this.getProjectId))
-    this.project = this.getProjectById(this.getProjectId)
+    this.loadProjectById(this.getProjectId)
   }
 }
 </script>
